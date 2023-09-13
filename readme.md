@@ -8,10 +8,10 @@ Registers a new user.
 
 ### Request
 
-```json
-POST /api/register
-Content-Type: application/json
+`POST /api/register`
+`Content-Type: application/json`
 
+```json
 {
     "fullname": "Kanye West",
     "email": "west@gmail.com"
@@ -19,9 +19,9 @@ Content-Type: application/json
 ```
 ### Response
 
-```json
-Status: 200 OK
+`Status: 200 OK`
 
+```json
 {
     "status": true,
     "message": "Registeration successful",
@@ -45,9 +45,7 @@ Retrieves a list of all users.
 
 ### Request
 
-```json
-GET /api/users
-```
+`GET /api/users`
 
 ### Response
 
