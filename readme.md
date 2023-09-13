@@ -8,7 +8,7 @@ Registers a new user.
 
 ### Request
 
-`POST /api/register`
+`POST /api/register`  
 `Content-Type: application/json`
 
 ```json
@@ -49,9 +49,9 @@ Retrieves a list of all users.
 
 ### Response
 
-```json
-Status: 200 OK
+`Status: 200 OK`
 
+```json
 {
     "status": true,
     "message": "All user fetched successfully",
@@ -84,15 +84,13 @@ Retrieves a user by ID, email, or name.
 
 ### Request
 
-```json
-GET /api/users/west@gmail.com
-```
+`GET /api/users/west@gmail.com`
 
 ### Response
 
-```json
-Status: 200 OK
+`Status: 200 OK`
 
+```json
 {
     "status": true,
     "message": "User fetched successfully",
@@ -116,10 +114,10 @@ Updates a user by ID, email, or name.
 
 ### Request
 
-```json
-PUT /api/users/johndoe@example.com
-Content-Type: application/json
+`PUT /api/users/johndoe@example.com`   
+`Content-Type: application/json`
 
+```json
 {
   "fullname": "Updated Name",
   "email": "updated@example.com"
@@ -128,9 +126,9 @@ Content-Type: application/json
 
 ### Response
 
-```json
-Status: 200 OK
+`Status: 200 OK`
 
+```json
 {
     "status": true,
     "message": "User updated successfully",
@@ -154,15 +152,13 @@ Deletes a user by ID, email, or name.
 
 ### Request
 
-```json
-DELETE /api/users/west@gmail.com
-```
+`DELETE /api/users/west@gmail.com`
 
 ### Response
 
-```json
-Status: 200 OK
+`Status: 200 OK`
 
+```json
 {
     "status": true,
     "message": "User 'email: west@gmail.com' deleted successfully"
