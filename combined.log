@@ -1,0 +1,896 @@
+{"level":"info","message":"Worker 5556 died","timestamp":"2023-09-11T01:10:59.408Z"}
+{"level":"info","message":"Worker 13080 died","timestamp":"2023-09-11T01:10:59.430Z"}
+{"level":"info","message":"Worker 656 died","timestamp":"2023-09-11T01:10:59.439Z"}
+{"level":"info","message":"Worker 11752 died","timestamp":"2023-09-11T01:10:59.442Z"}
+{"level":"info","message":"Worker 14528 died","timestamp":"2023-09-11T01:11:38.451Z"}
+{"level":"info","message":"Worker 6460 died","timestamp":"2023-09-11T01:11:38.463Z"}
+{"level":"info","message":"Worker 5428 died","timestamp":"2023-09-11T01:11:38.470Z"}
+{"level":"info","message":"Worker 15112 died","timestamp":"2023-09-11T01:11:38.482Z"}
+{"level":"info","message":"Worker 14256 died","timestamp":"2023-09-11T01:23:35.050Z"}
+{"level":"info","message":"Worker 13228 died","timestamp":"2023-09-11T01:23:35.086Z"}
+{"level":"info","message":"Worker 10044 died","timestamp":"2023-09-11T01:23:35.100Z"}
+{"level":"info","message":"Worker 6736 died","timestamp":"2023-09-11T01:23:35.103Z"}
+{"level":"info","message":"Worker 5756 died","timestamp":"2023-09-11T01:23:51.176Z"}
+{"level":"info","message":"Worker 2680 died","timestamp":"2023-09-11T01:23:51.215Z"}
+{"level":"info","message":"Worker 12420 died","timestamp":"2023-09-11T01:23:51.231Z"}
+{"level":"info","message":"Worker 7464 died","timestamp":"2023-09-11T01:23:51.242Z"}
+{"level":"info","message":"Worker 3032 died","timestamp":"2023-09-11T01:24:26.940Z"}
+{"level":"info","message":"Worker 15556 died","timestamp":"2023-09-11T01:24:26.948Z"}
+{"level":"info","message":"Worker 7732 died","timestamp":"2023-09-11T01:24:26.967Z"}
+{"level":"info","message":"Worker 5600 died","timestamp":"2023-09-11T01:24:27.005Z"}
+{"level":"info","message":"Worker 5800 died","timestamp":"2023-09-11T01:24:53.268Z"}
+{"level":"info","message":"Worker 10448 died","timestamp":"2023-09-11T01:24:53.285Z"}
+{"level":"info","message":"Worker 12292 died","timestamp":"2023-09-11T01:24:53.286Z"}
+{"level":"info","message":"Worker 13652 died","timestamp":"2023-09-11T01:24:53.296Z"}
+{"level":"info","message":"Worker 16316 died","timestamp":"2023-09-11T01:25:23.577Z"}
+{"level":"info","message":"Worker 15784 died","timestamp":"2023-09-11T01:25:23.604Z"}
+{"level":"info","message":"Worker 16332 died","timestamp":"2023-09-11T01:25:23.613Z"}
+{"level":"info","message":"Worker 6052 died","timestamp":"2023-09-11T01:25:23.631Z"}
+{"level":"info","message":"Worker 2096 died","timestamp":"2023-09-11T01:25:41.613Z"}
+{"level":"info","message":"Worker 11132 died","timestamp":"2023-09-11T01:25:41.618Z"}
+{"level":"info","message":"Worker 7732 died","timestamp":"2023-09-11T01:25:41.637Z"}
+{"level":"info","message":"Worker 14792 died","timestamp":"2023-09-11T01:25:41.679Z"}
+{"level":"info","message":"Worker 1984 died","timestamp":"2023-09-11T01:27:09.409Z"}
+{"level":"info","message":"Worker 9548 died","timestamp":"2023-09-11T01:27:09.415Z"}
+{"level":"info","message":"Worker 6928 died","timestamp":"2023-09-11T01:27:09.435Z"}
+{"level":"info","message":"Worker 5872 died","timestamp":"2023-09-11T01:27:09.466Z"}
+{"level":"info","message":"Worker 13976 died","timestamp":"2023-09-11T01:30:20.873Z"}
+{"level":"info","message":"Worker 12452 died","timestamp":"2023-09-11T01:30:20.878Z"}
+{"level":"info","message":"Worker 9356 died","timestamp":"2023-09-11T01:30:20.894Z"}
+{"level":"info","message":"Worker 4724 died","timestamp":"2023-09-11T01:30:20.941Z"}
+{"level":"info","message":"Worker 7704 died","timestamp":"2023-09-11T01:31:51.274Z"}
+{"level":"info","message":"Worker 14076 died","timestamp":"2023-09-11T01:31:51.282Z"}
+{"level":"info","message":"Worker 3176 died","timestamp":"2023-09-11T01:31:51.285Z"}
+{"level":"info","message":"Worker 9156 died","timestamp":"2023-09-11T01:31:51.302Z"}
+{"level":"info","message":"Worker 10288 died","timestamp":"2023-09-11T01:32:42.064Z"}
+{"level":"info","message":"Worker 5864 died","timestamp":"2023-09-11T01:32:42.074Z"}
+{"level":"info","message":"Worker 9228 died","timestamp":"2023-09-11T01:32:42.082Z"}
+{"level":"info","message":"Worker 9708 died","timestamp":"2023-09-11T01:32:42.098Z"}
+{"level":"info","message":"Worker 15640 died","timestamp":"2023-09-11T01:36:48.220Z"}
+{"level":"info","message":"Worker 5728 died","timestamp":"2023-09-11T01:36:48.227Z"}
+{"level":"info","message":"Worker 11620 died","timestamp":"2023-09-11T01:36:48.243Z"}
+{"level":"info","message":"Worker 7968 died","timestamp":"2023-09-11T01:36:48.248Z"}
+{"level":"info","message":"Worker 15716 died","timestamp":"2023-09-11T01:37:11.050Z"}
+{"level":"info","message":"Worker 4444 died","timestamp":"2023-09-11T01:37:11.067Z"}
+{"level":"info","message":"Worker 13976 died","timestamp":"2023-09-11T01:37:11.078Z"}
+{"level":"info","message":"Worker 13844 died","timestamp":"2023-09-11T01:37:11.139Z"}
+{"level":"info","message":"Worker 6736 died","timestamp":"2023-09-11T01:46:22.811Z"}
+{"level":"info","message":"Worker 7296 died","timestamp":"2023-09-11T01:46:22.817Z"}
+{"level":"info","message":"Worker 13440 died","timestamp":"2023-09-11T01:46:22.847Z"}
+{"level":"info","message":"Worker 15632 died","timestamp":"2023-09-11T01:46:22.880Z"}
+{"level":"info","message":"Worker 3812 died","timestamp":"2023-09-11T01:46:44.386Z"}
+{"level":"info","message":"Worker 15508 died","timestamp":"2023-09-11T01:46:44.392Z"}
+{"level":"info","message":"Worker 12736 died","timestamp":"2023-09-11T01:46:44.393Z"}
+{"level":"info","message":"Worker 10276 died","timestamp":"2023-09-11T01:46:44.396Z"}
+{"level":"info","message":"Worker 7084 died","timestamp":"2023-09-11T01:47:41.244Z"}
+{"level":"info","message":"Worker 16060 died","timestamp":"2023-09-11T01:47:41.265Z"}
+{"level":"info","message":"Worker 15184 died","timestamp":"2023-09-11T01:47:41.267Z"}
+{"level":"info","message":"Worker 13844 died","timestamp":"2023-09-11T01:47:41.309Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T01:48:21.942Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T01:48:21.930Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T01:48:21.990Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T01:48:22.015Z"}
+{"level":"info","message":"Worker 14768 died","timestamp":"2023-09-11T02:53:24.049Z"}
+{"level":"info","message":"Worker 5556 died","timestamp":"2023-09-11T02:53:24.056Z"}
+{"level":"info","message":"Worker 17644 died","timestamp":"2023-09-11T02:53:24.058Z"}
+{"level":"info","message":"Worker 10120 died","timestamp":"2023-09-11T02:53:24.064Z"}
+{"level":"info","message":"Worker 2972 died","timestamp":"2023-09-11T02:54:32.931Z"}
+{"level":"info","message":"Worker 17360 died","timestamp":"2023-09-11T02:54:32.937Z"}
+{"level":"info","message":"Worker 15712 died","timestamp":"2023-09-11T02:54:32.938Z"}
+{"level":"info","message":"Worker 16700 died","timestamp":"2023-09-11T02:54:32.942Z"}
+{"level":"info","message":"Worker 15952 died","timestamp":"2023-09-11T02:55:36.772Z"}
+{"level":"info","message":"Worker 17876 died","timestamp":"2023-09-11T02:55:36.794Z"}
+{"level":"info","message":"Worker 16200 died","timestamp":"2023-09-11T02:55:36.795Z"}
+{"level":"info","message":"Worker 3604 died","timestamp":"2023-09-11T02:55:36.802Z"}
+{"level":"info","message":"Worker 16984 died","timestamp":"2023-09-11T02:59:01.384Z"}
+{"level":"info","message":"Worker 17028 died","timestamp":"2023-09-11T02:59:01.441Z"}
+{"level":"info","message":"Worker 16816 died","timestamp":"2023-09-11T02:59:01.445Z"}
+{"level":"info","message":"Worker 18416 died","timestamp":"2023-09-11T02:59:01.482Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T02:59:15.818Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T02:59:15.844Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T02:59:15.858Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T02:59:15.910Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:06:59.377Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:06:59.380Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:06:59.377Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:06:59.435Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:13:41.376Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:13:41.391Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:13:41.406Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:13:41.425Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:14:14.611Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:14:14.670Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:14:14.683Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:14:14.702Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:19:18.514Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:19:18.531Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:19:18.530Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:19:18.554Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:01.415Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:01.432Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:01.436Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:01.433Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:55.489Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:55.489Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:55.498Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:24:55.503Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:28:31.041Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:28:31.064Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:28:31.081Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:28:31.089Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:29:07.568Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:29:07.573Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:29:07.586Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:29:07.644Z"}
+{"level":"info","message":"Worker 16760 died","timestamp":"2023-09-11T03:29:41.547Z"}
+{"level":"info","message":"Worker 11068 died","timestamp":"2023-09-11T03:29:41.556Z"}
+{"level":"info","message":"Worker 10632 died","timestamp":"2023-09-11T03:29:41.562Z"}
+{"level":"info","message":"Worker 12024 died","timestamp":"2023-09-11T03:29:41.636Z"}
+{"level":"info","message":"Worker 15920 died","timestamp":"2023-09-11T03:30:04.876Z"}
+{"level":"info","message":"Worker 11752 died","timestamp":"2023-09-11T03:30:04.915Z"}
+{"level":"info","message":"Worker 13976 died","timestamp":"2023-09-11T03:30:04.923Z"}
+{"level":"info","message":"Worker 17180 died","timestamp":"2023-09-11T03:30:04.924Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:30:49.336Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:30:49.338Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:30:49.346Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:30:49.353Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:31:33.439Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:31:33.476Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:31:33.483Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:31:33.503Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:21.177Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:21.198Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:21.203Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:21.261Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:52.102Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:52.157Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:52.164Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:34:52.187Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:35:38.891Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:35:38.923Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:35:38.926Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:35:38.948Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:36:41.521Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:36:41.523Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:36:41.574Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:36:41.600Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:36:44.324Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:38:04.389Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:38:04.403Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:38:04.467Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:38:04.485Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:38:07.247Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:38:10.030Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/user","timestamp":"2023-09-11T03:38:58.118Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/users","timestamp":"2023-09-11T03:40:55.881Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:41:30.765Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:41:30.783Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:41:30.804Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:41:30.853Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/users","timestamp":"2023-09-11T03:41:37.162Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:41:41.362Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:20.564Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:20.585Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:20.591Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:20.670Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:42:24.985Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:42:27.883Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:46.918Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:46.940Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:46.914Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:42:47.019Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:43:50.468Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:43:50.491Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:43:50.560Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:43:50.607Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:45:42.925Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:45:42.939Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:45:42.963Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:45:43.012Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:46:24.619Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:46:24.642Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:46:24.668Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:46:24.696Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:47:33.839Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:47:33.851Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:47:33.902Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:47:33.940Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:35.214Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:35.190Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:35.246Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:35.284Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:54.814Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:54.827Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:54.871Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:49:54.865Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:11.703Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:11.722Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:11.755Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:11.776Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:50:13.808Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:35.639Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:35.659Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:35.662Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:50:35.691Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:50:40.729Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:54:58.597Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:54:58.629Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:54:58.654Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T03:54:58.656Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:55:18.593Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:55:19.745Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:55:20.148Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T03:55:20.368Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T04:00:38.445Z"}
+{"level":"info","message":"Worker 15868 died","timestamp":"2023-09-11T04:04:05.775Z"}
+{"level":"info","message":"Worker 16728 died","timestamp":"2023-09-11T04:04:05.781Z"}
+{"level":"info","message":"Worker 14780 died","timestamp":"2023-09-11T04:04:05.788Z"}
+{"level":"info","message":"Worker 16752 died","timestamp":"2023-09-11T04:09:44.586Z"}
+{"level":"info","message":"Worker 7684 died","timestamp":"2023-09-11T04:09:44.592Z"}
+{"level":"info","message":"Worker 17932 died","timestamp":"2023-09-11T04:09:44.594Z"}
+{"level":"info","message":"Worker 16960 died","timestamp":"2023-09-11T04:09:44.597Z"}
+{"level":"info","message":"Worker 16648 died","timestamp":"2023-09-11T04:12:18.029Z"}
+{"level":"info","message":"Worker 15440 died","timestamp":"2023-09-11T04:12:18.040Z"}
+{"level":"info","message":"Worker 4800 died","timestamp":"2023-09-11T04:12:18.058Z"}
+{"level":"info","message":"Worker 18400 died","timestamp":"2023-09-11T04:12:18.068Z"}
+{"level":"info","message":"Worker 16692 died","timestamp":"2023-09-11T04:12:57.045Z"}
+{"level":"info","message":"Worker 16004 died","timestamp":"2023-09-11T04:12:57.063Z"}
+{"level":"info","message":"Worker 7740 died","timestamp":"2023-09-11T04:12:57.112Z"}
+{"level":"info","message":"Worker 11856 died","timestamp":"2023-09-11T04:12:57.130Z"}
+{"level":"info","message":"Worker 14328 died","timestamp":"2023-09-11T04:13:54.002Z"}
+{"level":"info","message":"Worker 13140 died","timestamp":"2023-09-11T04:13:54.008Z"}
+{"level":"info","message":"Worker 13148 died","timestamp":"2023-09-11T04:13:54.039Z"}
+{"level":"info","message":"Worker 17892 died","timestamp":"2023-09-11T04:13:54.059Z"}
+{"level":"info","message":"Worker 14976 died","timestamp":"2023-09-11T04:14:23.844Z"}
+{"level":"info","message":"Worker 18336 died","timestamp":"2023-09-11T04:14:23.850Z"}
+{"level":"info","message":"Worker 16580 died","timestamp":"2023-09-11T04:14:23.851Z"}
+{"level":"info","message":"Worker 15676 died","timestamp":"2023-09-11T04:14:23.870Z"}
+{"level":"info","message":"Worker 13912 died","timestamp":"2023-09-11T04:15:44.735Z"}
+{"level":"info","message":"Worker 12104 died","timestamp":"2023-09-11T04:15:44.743Z"}
+{"level":"info","message":"Worker 7416 died","timestamp":"2023-09-11T04:15:44.744Z"}
+{"level":"info","message":"Worker 16824 died","timestamp":"2023-09-11T04:15:44.783Z"}
+{"level":"info","message":"Worker 10764 died","timestamp":"2023-09-11T04:15:51.324Z"}
+{"level":"info","message":"Worker 16020 died","timestamp":"2023-09-11T04:15:51.330Z"}
+{"level":"info","message":"Worker 13436 died","timestamp":"2023-09-11T04:15:51.333Z"}
+{"level":"info","message":"Worker 13460 died","timestamp":"2023-09-11T04:15:51.336Z"}
+{"level":"info","message":"Worker 2676 died","timestamp":"2023-09-11T04:16:07.369Z"}
+{"level":"info","message":"Worker 9176 died","timestamp":"2023-09-11T04:16:07.390Z"}
+{"level":"info","message":"Worker 12476 died","timestamp":"2023-09-11T04:16:07.393Z"}
+{"level":"info","message":"Worker 18212 died","timestamp":"2023-09-11T04:16:07.405Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T04:17:54.872Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T04:17:54.853Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T04:17:54.877Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T04:17:54.870Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/","timestamp":"2023-09-11T04:18:03.467Z"}
+{"level":"info","message":"Worker 15544 died","timestamp":"2023-09-11T19:40:08.010Z"}
+{"level":"info","message":"Worker 5548 died","timestamp":"2023-09-11T19:40:08.019Z"}
+{"level":"info","message":"Worker 23504 died","timestamp":"2023-09-11T19:40:08.022Z"}
+{"level":"info","message":"Worker 13704 died","timestamp":"2023-09-11T19:40:08.048Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:44:24.194Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:44:24.237Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:44:24.294Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:44:24.313Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:46:20.991Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:46:21.038Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:46:21.067Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:46:21.121Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:58:22.595Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:58:22.616Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:58:22.646Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T19:58:22.665Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:02:39.966Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:02:40.002Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:02:40.057Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:02:40.062Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:03:09.878Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:03:09.904Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:03:09.956Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:03:09.980Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:04:05.010Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:04:05.058Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:04:05.080Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:04:05.151Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:25.062Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:25.072Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:25.112Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:25.145Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:53.454Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:53.487Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:53.487Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:07:53.516Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:13:26.140Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:13:26.216Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:13:26.241Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:13:26.255Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/users","timestamp":"2023-09-11T20:19:47.370Z"}
+{"level":"info","message":"Worker 9572 died","timestamp":"2023-09-11T20:19:57.576Z"}
+{"level":"info","message":"Worker 4724 died","timestamp":"2023-09-11T20:19:57.591Z"}
+{"level":"info","message":"Worker 12856 died","timestamp":"2023-09-11T20:19:57.603Z"}
+{"level":"info","message":"Worker 12132 died","timestamp":"2023-09-11T20:19:57.619Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:21:50.130Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:21:50.155Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:21:50.183Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:21:50.202Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:25:33.610Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:25:33.605Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:25:33.630Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:25:33.643Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:27:02.190Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:27:02.204Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:27:02.220Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:27:02.281Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:27:09.488Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:27:09.494Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:27:09.498Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:27:09.511Z"}
+{"level":"info","message":"Worker 19876 died","timestamp":"2023-09-11T20:28:18.356Z"}
+{"level":"info","message":"Worker 24440 died","timestamp":"2023-09-11T20:28:18.370Z"}
+{"level":"info","message":"Worker 21984 died","timestamp":"2023-09-11T20:28:18.393Z"}
+{"level":"info","message":"Worker 9008 died","timestamp":"2023-09-11T20:28:18.419Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:29:40.389Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:29:40.430Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:29:40.432Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:29:40.449Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:29:47.745Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:29:47.744Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:29:47.748Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:29:47.760Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:34:43.321Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:34:43.339Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:34:43.391Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:34:43.396Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/users","timestamp":"2023-09-11T20:34:50.764Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:34:51.074Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:34:51.104Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:34:51.108Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:34:51.204Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T20:35:16.964Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:37:13.985Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:37:14.002Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:37:14.022Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:37:14.043Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:37:21.164Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:37:21.183Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:37:21.187Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:37:21.191Z"}
+{"level":"info","message":"Worker 2972 died","timestamp":"2023-09-11T20:38:41.088Z"}
+{"level":"info","message":"Worker 19904 died","timestamp":"2023-09-11T20:38:41.094Z"}
+{"level":"info","message":"Worker 19320 died","timestamp":"2023-09-11T20:38:41.109Z"}
+{"level":"info","message":"Worker 19556 died","timestamp":"2023-09-11T20:38:41.124Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:40:35.444Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:40:35.450Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:40:35.467Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:40:35.472Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:40:42.893Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:40:42.912Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:40:42.901Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:40:42.916Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:41:07.363Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:41:07.373Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:41:07.460Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:41:07.504Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T20:41:09.464Z"}
+{"level":"info","message":"Worker 20596 died","timestamp":"2023-09-11T20:41:09.482Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:41:09.738Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:41:09.753Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:41:09.790Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:42:35.518Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:42:35.524Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:42:35.549Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:42:35.544Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T20:42:40.575Z"}
+{"level":"info","message":"Worker 7468 died","timestamp":"2023-09-11T20:42:41.152Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:42:43.306Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:42:43.390Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:42:43.446Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:45:25.282Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:45:25.398Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:45:25.459Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:45:25.475Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T20:45:30.452Z"}
+{"level":"info","message":"Worker 20564 died","timestamp":"2023-09-11T20:45:30.486Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:45:32.498Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:45:32.547Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:45:32.549Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:47:18.733Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:47:18.758Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:47:18.761Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T20:47:18.803Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T20:47:20.905Z"}
+{"level":"info","message":"Worker 20348 died","timestamp":"2023-09-11T20:47:20.949Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:47:26.116Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:47:26.109Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T20:47:26.132Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:10:40.348Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:10:40.351Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:10:40.359Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:10:40.390Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:10:47.708Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:10:47.835Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:10:47.841Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:10:47.849Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:10:55.201Z"}
+{"level":"info","message":"Worker 9660 died","timestamp":"2023-09-11T23:10:55.239Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:15:38.336Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:15:38.377Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:15:38.391Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:15:38.400Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:15:43.264Z"}
+{"level":"info","message":"Worker 5144 died","timestamp":"2023-09-11T23:15:43.531Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:15:45.681Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:15:45.683Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:15:45.696Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:27:38.191Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:27:38.263Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:27:38.263Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:27:38.286Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:27:45.517Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:27:45.539Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:27:45.546Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:27:45.548Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:27:47.515Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:35:31.497Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:35:31.536Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:35:31.544Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:35:31.556Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:35:38.848Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:35:38.856Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:35:38.860Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:35:38.880Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:35:51.422Z"}
+{"level":"warn","message":"Attempt to access from an Unauthorized IP !!!. ROUTE<:::>/api/auth/register --- IP<:::>::1","timestamp":"2023-09-11T23:35:51.423Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:35:54.142Z"}
+{"level":"warn","message":"Attempt to access from an Unauthorized IP !!!. ROUTE<:::>/api/auth/register --- IP<:::>::1","timestamp":"2023-09-11T23:35:54.142Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:12.165Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:12.175Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:12.172Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:12.258Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:19.486Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:19.532Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:19.531Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:19.542Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:59:19.785Z"}
+{"level":"warn","message":"Attempt to access from an Unauthorized IP !!!. ROUTE<:::>/api/auth/register --- IP<:::>::1","timestamp":"2023-09-11T23:59:19.787Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:56.673Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:56.682Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:56.690Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-11T23:59:56.734Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:58.985Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:58.980Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:58.976Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-11T23:59:58.989Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-11T23:59:59.392Z"}
+{"level":"info","message":"Worker 12748 died","timestamp":"2023-09-11T23:59:59.447Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T00:01:03.891Z"}
+{"level":"info","message":"Worker 12328 died","timestamp":"2023-09-12T00:01:03.938Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:00:37.043Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:00:37.132Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:00:37.156Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:00:37.193Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:00:44.336Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:00:44.347Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:00:44.340Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:00:44.353Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:00:52.688Z"}
+{"level":"info","message":"Worker 1248 died","timestamp":"2023-09-12T01:00:52.743Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:02:18.544Z"}
+{"level":"info","message":"Worker 3604 died","timestamp":"2023-09-12T01:02:18.574Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:07:49.545Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:07:49.557Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:07:49.553Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:07:49.557Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:07:53.207Z"}
+{"level":"info","message":"Worker 6928 died","timestamp":"2023-09-12T01:07:53.254Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:07:56.735Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:07:56.742Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:07:56.751Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:08:46.649Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:08:46.678Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:08:46.688Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:08:46.750Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:08:49.124Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:08:49.124Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:08:49.117Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:08:49.122Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:08:50.387Z"}
+{"level":"info","message":"Worker 9444 died","timestamp":"2023-09-12T01:08:50.432Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:09:44.392Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:09:44.433Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:09:44.438Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:09:44.454Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:09:51.639Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:09:51.639Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:09:51.638Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:09:51.634Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:09:57.344Z"}
+{"level":"info","message":"Worker 7796 died","timestamp":"2023-09-12T01:09:57.388Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:11:59.777Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:11:59.794Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:11:59.843Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:11:59.887Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:12:07.770Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:12:07.778Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:12:08.088Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:12:08.094Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:12:09.377Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:13:26.355Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:13:26.389Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:13:26.429Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:13:26.434Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:13:28.413Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:13:30.347Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:13:33.478Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:13:33.502Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:13:33.517Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:13:33.545Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:14:15.440Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:14:15.447Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:14:15.537Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:14:15.564Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:14:17.813Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:14:17.821Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:14:17.815Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:14:17.824Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:14:19.510Z"}
+{"level":"info","message":"Worker 9884 died","timestamp":"2023-09-12T01:14:19.809Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:14:20.510Z"}
+{"level":"info","message":"Worker 4072 died","timestamp":"2023-09-12T01:14:20.782Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:17:17.118Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:17:17.160Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:17:17.212Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:17:17.223Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:17:22.491Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:17:24.400Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:17:24.410Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:17:24.416Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:17:24.429Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:26:09.828Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:26:11.387Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:26:14.992Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:27:36.929Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:27:36.958Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:27:36.961Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:27:36.987Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:27:39.240Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:27:40.703Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:27:41.846Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:27:44.314Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:27:44.330Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:27:44.342Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:27:44.341Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:27:47.856Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:30:15.977Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:30:15.999Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:30:16.021Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T01:30:16.037Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:30:18.420Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:30:23.081Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:30:23.076Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:30:23.084Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T01:30:23.088Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T01:32:06.429Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:22:59.894Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:36.754Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:36.877Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:36.905Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:36.919Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:23:44.166Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:23:44.169Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:23:44.178Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:23:44.186Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:58.565Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:58.597Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:58.619Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:23:58.699Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:24:00.994Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:24:00.985Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:24:00.993Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:24:01.003Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:24:47.649Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:24:50.290Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:25:02.228Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:57:04.812Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:57:24.154Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:57:24.185Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:57:24.202Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T02:57:24.216Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:57:29.571Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:57:31.488Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:57:31.505Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:57:31.524Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T02:57:31.531Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:57:46.386Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T02:59:25.701Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:04:44.324Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:04:44.323Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:04:44.343Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:04:44.356Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:04:51.744Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:04:51.746Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:04:51.759Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:04:51.759Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/users","timestamp":"2023-09-12T03:04:54.902Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users","timestamp":"2023-09-12T03:05:01.318Z"}
+{"level":"info","message":"Worker 9260 died","timestamp":"2023-09-12T03:05:01.604Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:05:54.871Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:05:54.870Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:05:54.890Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:05:54.964Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:05:57.265Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:05:57.275Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:05:57.296Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:05:57.293Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users","timestamp":"2023-09-12T03:05:57.673Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:06:34.290Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:07:19.124Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:07:19.141Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:07:19.147Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:07:19.173Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:07:26.054Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:07:26.052Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:07:26.074Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:07:26.068Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:07:27.638Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:08:10.826Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:08:10.862Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:08:10.961Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:08:10.977Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:08:13.221Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:08:13.231Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:08:13.319Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:08:13.324Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:08:14.571Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:09:10.234Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:09:10.254Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:09:10.311Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:09:10.330Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:09:13.174Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:09:17.423Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:09:17.438Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:09:17.449Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:09:17.441Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api?slack_name=Ayomide%20Ishola&track=backend","timestamp":"2023-09-12T03:18:58.374Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T03:22:38.284Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:22:52.096Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:22:52.104Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:22:52.124Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:22:52.134Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:22:59.331Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:22:59.331Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:22:59.334Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:22:59.323Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T03:23:27.658Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:25:50.670Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:25:50.787Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:25:50.850Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:25:50.876Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:25:57.805Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:25:57.795Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:25:57.797Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:25:57.809Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T03:26:07.316Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:26:27.822Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:26:35.093Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:27:18.724Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:27:18.741Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:27:18.767Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:27:18.777Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:27:21.942Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:27:25.731Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:27:25.738Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:27:25.745Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:27:25.754Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/ay4codes@gmail.com","timestamp":"2023-09-12T03:27:45.358Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/elon@gmail.com","timestamp":"2023-09-12T03:27:53.600Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/64ffd40d00c8aad69f4eb075","timestamp":"2023-09-12T03:28:09.556Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/","timestamp":"2023-09-12T03:32:59.275Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:33:31.666Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:33:31.691Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:33:31.724Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:33:31.728Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/","timestamp":"2023-09-12T03:33:37.086Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:33:38.943Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:33:39.005Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:33:39.001Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:33:39.010Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:41:53.251Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:41:53.271Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:41:53.285Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:41:53.358Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:42:00.509Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:42:00.514Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:42:00.511Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:42:00.514Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:46:22.462Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:46:22.494Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:46:22.515Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:46:22.529Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:46:29.775Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:46:29.790Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:46:29.803Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:46:29.800Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:47:08.625Z"}
+{"level":"info","message":"Worker 11100 died","timestamp":"2023-09-12T03:47:08.745Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:49:09.579Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:49:09.596Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:49:09.647Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:49:09.672Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:49:16.770Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:49:16.777Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:49:16.784Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:49:16.779Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:49:21.275Z"}
+{"level":"info","message":"Worker 9572 died","timestamp":"2023-09-12T03:49:21.316Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:51:12.839Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:51:12.879Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:51:12.884Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:51:12.918Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:51:18.942Z"}
+{"level":"info","message":"Worker 12780 died","timestamp":"2023-09-12T03:51:18.979Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:51:19.884Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:51:19.907Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:51:19.908Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:52:29.507Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:52:29.535Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:52:29.563Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:52:29.570Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:52:31.857Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:52:31.879Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:52:31.872Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:52:31.876Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:52:33.769Z"}
+{"level":"info","message":"Worker 7520 died","timestamp":"2023-09-12T03:52:33.814Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:53:42.666Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:53:42.672Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:53:42.677Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:53:42.696Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:53:48.416Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:53:49.319Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:53:49.317Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:53:49.332Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:53:49.337Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:53:52.677Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:53:55.560Z"}
+{"level":"info","message":"Worker 5608 died","timestamp":"2023-09-12T03:53:55.656Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:54:26.413Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:54:26.442Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:54:26.536Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:54:26.569Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:54:28.872Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:54:28.907Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:54:28.900Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:54:28.906Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ayomide%20ishola","timestamp":"2023-09-12T03:54:43.252Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:56:20.122Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:56:20.183Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:56:20.177Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:56:20.198Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:56:27.156Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:56:27.166Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:56:27.178Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:56:27.190Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye%20west","timestamp":"2023-09-12T03:56:44.168Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:58:56.915Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:58:56.938Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:58:56.948Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T03:58:56.956Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:59:03.868Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:59:03.907Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:59:03.918Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T03:59:03.913Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye%20west","timestamp":"2023-09-12T03:59:06.894Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye%20west","timestamp":"2023-09-12T03:59:20.303Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ay4codes@gmail.com","timestamp":"2023-09-12T04:00:39.602Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:01:49.964Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:01:50.013Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:01:50.010Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:01:50.039Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ay4codes@gmail.com","timestamp":"2023-09-12T04:01:54.385Z"}
+{"level":"info","message":"Worker 3300 died","timestamp":"2023-09-12T04:01:54.546Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:01:56.947Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:01:56.978Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:01:56.978Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ay4codes@gmail.com","timestamp":"2023-09-12T04:02:11.024Z"}
+{"level":"info","message":"Worker 9668 died","timestamp":"2023-09-12T04:02:11.084Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:03:52.952Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:03:52.995Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:03:53.022Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:03:53.036Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ay4codes@gmail.com","timestamp":"2023-09-12T04:03:57.381Z"}
+{"level":"info","message":"Worker 8372 died","timestamp":"2023-09-12T04:03:57.475Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:03:59.930Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:03:59.933Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:03:59.937Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:04:37.985Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:04:37.982Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:04:38.035Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T04:04:38.095Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:04:40.435Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:04:40.446Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:04:40.462Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T04:04:40.464Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/ay4codes@gmail.com","timestamp":"2023-09-12T04:04:43.837Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T04:05:03.728Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:50:29.490Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:54:52.292Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:55:03.459Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:55:16.378Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:55:40.175Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T11:55:48.288Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T11:55:48.311Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T11:55:48.331Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T11:55:48.356Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T11:55:51.058Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T11:55:51.105Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T11:55:51.112Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T11:55:51.117Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:55:52.211Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/kanye@gmail.com","timestamp":"2023-09-12T11:56:07.966Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/","timestamp":"2023-09-12T11:56:28.777Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/","timestamp":"2023-09-12T11:56:37.062Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-12T11:57:08.508Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-12T11:57:24.384Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-12T11:57:29.543Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/","timestamp":"2023-09-12T12:04:31.291Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/e","timestamp":"2023-09-12T12:04:39.063Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:11:58.947Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:11:58.948Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:11:58.969Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:11:58.990Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:02.535Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:02.706Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:02.724Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:02.727Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/e","timestamp":"2023-09-12T12:12:03.304Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:12:25.079Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:12:25.105Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:12:25.164Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:12:25.212Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:27.540Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:27.546Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:27.701Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:12:27.707Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/e","timestamp":"2023-09-12T12:12:29.549Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:17:58.636Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:17:58.672Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:17:58.681Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:17:58.700Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:18:02.720Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:18:02.750Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:18:02.723Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:18:02.759Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/e","timestamp":"2023-09-12T12:18:04.000Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/e","timestamp":"2023-09-12T12:18:12.436Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-12T12:18:23.677Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:22:03.566Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:22:03.588Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:22:03.622Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-12T12:22:03.651Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:22:07.431Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:22:07.484Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:22:07.478Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-12T12:22:07.491Z"}
+{"level":"info","message":"Request received: method---DELETE ::::: route---/api/users/west@gail.com","timestamp":"2023-09-12T12:22:16.218Z"}
+{"level":"info","message":"Request received: method---DELETE ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-12T12:22:45.289Z"}
+{"level":"info","message":"Request received: method---DELETE ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-12T12:22:52.022Z"}
+{"level":"info","message":"Request received: method---DELETE ::::: route---/api/users","timestamp":"2023-09-12T12:23:04.674Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users","timestamp":"2023-09-12T12:23:10.076Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-12T12:23:40.485Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api","timestamp":"2023-09-12T22:39:57.066Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users","timestamp":"2023-09-13T14:52:12.514Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/e","timestamp":"2023-09-13T14:57:00.212Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-13T14:58:39.819Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-13T14:58:39.810Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-13T14:58:39.826Z"}
+{"level":"info","message":"Server Started Successfully","timestamp":"2023-09-13T14:58:39.918Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/e","timestamp":"2023-09-13T14:58:46.108Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-13T14:58:47.303Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-13T14:58:47.340Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-13T14:58:47.372Z"}
+{"level":"info","message":"Connected to Mongo DB Database!","timestamp":"2023-09-13T14:58:47.382Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/e","timestamp":"2023-09-13T14:58:53.422Z"}
+{"level":"info","message":"Request received: method---GET ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-13T14:59:02.562Z"}
+{"level":"info","message":"Request received: method---PUT ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-13T15:03:59.856Z"}
+{"level":"info","message":"Request received: method---DELETE ::::: route---/api/users/west@gmail.com","timestamp":"2023-09-13T15:07:27.256Z"}
+{"level":"info","message":"Request received: method---DELETE ::::: route---/api/auth/register","timestamp":"2023-09-13T15:07:54.934Z"}
+{"level":"info","message":"Request received: method---POST ::::: route---/api/auth/register","timestamp":"2023-09-13T15:08:03.804Z"}
