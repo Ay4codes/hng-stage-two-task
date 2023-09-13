@@ -4,7 +4,7 @@ require('dotenv').config()
 const config = {
     APP_NAME: "hng-task-two",
     domain: {
-        URL: 'https://hng-task-two.com'
+        URL: 'https://hng-task-two-09r7.onrender.com'
     },
     auth: {
         jwt: {
