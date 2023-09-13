@@ -16,9 +16,10 @@ Content-Type: application/json
     "fullname": "Kanye West",
     "email": "west@gmail.com"
 }
-
+```
 ### Response
 
+```json
 Status: 200 OK
 
 {
@@ -34,9 +35,7 @@ Status: 200 OK
         }
     }
 }
-
-
-<:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::>
+```
 
 ## Get All Users
 
@@ -46,10 +45,13 @@ Retrieves a list of all users.
 
 ### Request
 
+```json
 GET /api/users
+```
 
 ### Response
 
+```json
 Status: 200 OK
 
 {
@@ -74,9 +76,7 @@ Status: 200 OK
         ]
     }
 }
-
-
-<:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::>
+```
 
 ## Get User by ID, Email, or Name
 
@@ -86,10 +86,13 @@ Retrieves a user by ID, email, or name.
 
 ### Request
 
+```json
 GET /api/users/west@gmail.com
+```
 
 ### Response
 
+```json
 Status: 200 OK
 
 {
@@ -105,9 +108,7 @@ Status: 200 OK
         }
     }
 }
-
-
-<:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::>
+```
 
 ## Update User
 
@@ -125,9 +126,11 @@ Content-Type: application/json
   "fullname": "Updated Name",
   "email": "updated@example.com"
 }
+```
 
 ### Response
 
+```json
 Status: 200 OK
 
 {
@@ -143,8 +146,7 @@ Status: 200 OK
         }
     }
 }
-
-<:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::>
+```
 
 ## Delete User
 
@@ -154,13 +156,17 @@ Deletes a user by ID, email, or name.
 
 ### Request
 
+```json
 DELETE /api/users/west@gmail.com
+```
 
 ### Response
 
+```json
 Status: 200 OK
 
 {
     "status": true,
     "message": "User 'email: west@gmail.com' deleted successfully"
 }
+```
