@@ -2,13 +2,13 @@
 
 ## Register a User
 
-**Endpoint:** `POST /api/register`
+**Endpoint:** `POST /api/auth/register`
 
 Registers a new user.
 
 ### Request
 
-`POST /api/register`  
+`POST /api/auth/register`  
 `Content-Type: application/json`
 
 ```json
