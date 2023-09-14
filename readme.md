@@ -1,5 +1,7 @@
 # Project API Documentation
 
+## Project URL `https://hng-task-two-09r7.onrender.com`
+
 ## Register a User
 
 **Endpoint:** `POST /api/auth/register`
